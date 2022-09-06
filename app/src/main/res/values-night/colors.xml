@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_accent">#FFFFFF</color>
+    <color name="background">#19191E</color>
+    <color name="colorTitle">#FFFFFF</color>
+    <color name="colorGrey">#D1D1D1</color>
+    <color name="colorBgBtn">#FFFFFF</color>
+    <color name="add_icon">#000</color>
+    <color name="edit_btn">#fff</color>
+    <color name="menue_btn_color">#fff</color>
+</resources>
