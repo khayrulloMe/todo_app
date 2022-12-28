@@ -1,14 +1,35 @@
-# todo_app
-todo app from khayrullo
+<h1 align="center">Hi 👋, I'm Khayrullo</h1>
+<h3 align="center">A passionate Mobile developer from Uzbekistan</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khayrullome&label=Profile%20views&color=0e75b6&style=flat" alt="khayrullome" /> </p>
 
-![photo_2022-09-06_15-04-26](https://user-images.githubusercontent.com/103281697/188607846-55c51471-5bb4-4ba2-aade-b8969bc56479.jpg)
-![photo_2022-09-06_15-04-30](https://user-images.githubusercontent.com/103281697/188607849-98d42b93-c2b0-4186-bab3-c254cc39f926.jpg)
-![photo_2022-09-06_15-04-33](https://user-images.githubusercontent.com/103281697/188607855-b247c8ca-ccec-4975-a785-0e3ee3bb58e1.jpg)
-![photo_2022-09-06_15-04-36](https://user-images.githubusercontent.com/103281697/188607861-6aa2e63d-e21b-4cde-94d1-a2591c2c6ac7.jpg)
-![photo_2022-09-06_15-04-40](https://user-images.githubusercontent.com/103281697/188607863-b20e9f3d-a85d-41f6-b083-4e848ad1b271.jpg)
-![photo_2022-09-06_15-04-45](https://user-images.githubusercontent.com/103281697/188607864-b07f586a-a2c3-4e52-abff-026566ab6872.jpg)
-![photo_2022-09-06_15-04-48](https://user-images.githubusercontent.com/103281697/188607866-a9d931ed-7dd5-4ecd-a893-a01f11de9f9b.jpg)
-![photo_2022-09-06_15-04-52](https://user-images.githubusercontent.com/103281697/188607871-6d799a23-9cb1-440d-bc02-f53c970f0433.jpg)
-![photo_2022-09-06_15-04-01](https://user-images.githubusercontent.com/103281697/188607873-ef3d05ad-88cb-48c0-ac96-ac4860868d30.jpg)
-![photo_2022-09-06_15-04-19](https://user-images.githubusercontent.com/103281697/188607876-d205f188-04c3-415d-9804-efa878bf607d.jpg)
+- 🔭 I’m currently working on **Mobile Banking**
+
+- 🌱 I’m currently learning **MVI**
+
+- 👯 I’m looking to collaborate on **AR**
+
+- 🤝 I’m looking for help with **Flutter Mobile Bank**
+
+- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1CjjeUjsFcEYPMaCkvA-R30tNGm9QTKXd/view?usp=drivesdk](https://drive.google.com/file/d/1CjjeUjsFcEYPMaCkvA-R30tNGm9QTKXd/view?usp=drivesdk)
+
+- 💬 Ask me about **Android,kotlin,java,flutter**
+
+- 📫 How to reach me **khayrullo.me@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/khayrullo-matkarimov-406b72237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khayrullo-matkarimov-406b72237/" height="30" width="40" /></a>
+<a href="https://instagram.com/khayrullo.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khayrullo.me" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/khayrullo_me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/khayrullo_me/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khayrullome&show_icons=true&locale=en&layout=compact" alt="khayrullome" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khayrullome&show_icons=true&locale=en" alt="khayrullome" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khayrullome&" alt="khayrullome" /></p>
+
